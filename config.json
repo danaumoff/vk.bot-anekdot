@@ -1,0 +1,11 @@
+{
+    "api_key": "75b6b6bf8c7775c44dc00cb28f622ea8",
+    "subscription_type": "free",
+    "language": "ru",
+    "connection": {
+        "use_ssl": false,
+        "verify_ssl_certs": false,
+        "use_proxy": false,
+        "timeout_secs": 10
+    }
+}
